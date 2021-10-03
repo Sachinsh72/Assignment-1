@@ -1,2 +1,2 @@
-# Assignment-1
-assignment of Day-1 html and css
+# Assignment
+Assignment of all days of html and css
